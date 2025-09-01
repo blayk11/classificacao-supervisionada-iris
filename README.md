@@ -1,4 +1,4 @@
-# Classificação Supervisionada com Validação Cruzada — Dataset Iris
+# Classificação Supervisionada com Validação Cruzada
 
 Este projeto tem o objetivo de demonstrar um pipeline completo de classificação supervisionada utilizando o algoritmo **Random Forest** com **validação cruzada**.
 
